@@ -1,0 +1,30 @@
+/*-- Body Reset --*/
+
+body{
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*=== LANDING ===*/
+
+.landing{
+    background-image: linear-gradient(135deg, #1da1f2, #981ceb);
+    height: 100vh;
+}
+
+/*=== MEDIA QUERIES ===*/
+
+/* Devices under 1199px (xl) */
+@media (max-width: 1199.98px) {
+    
+}
+
+/* Devices under 992px (xl) */
+@media (max-width: 992.98px) {
+    
+}
+
+/* Devices under 768px (md) */
+@media (max-width: 767.98px) {
+    
+}
