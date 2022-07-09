@@ -8,9 +8,10 @@ body{
 /*=== LANDING ===*/
 
 .landing{
-    background-image: linear-gradient(135deg, #1da1f2, #981ceb);
+    background-image: linear-gradient(9135deg, #FFD100, #F36B22);
     /*background-image: linear-gradient(135deg, #1da1f2, #981ceb);*/
     /*background-image: linear-gradient(180deg, #FFD100, #545859);*/
+    /*background-image: linear-gradient(180deg, #FFD100, #F36B22);*/
     height: 100vh;
 }
 
